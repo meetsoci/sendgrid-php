@@ -13,8 +13,8 @@
     "grid"
   ],
   "require": {
-    "php": ">=7.3",
-    "sendgrid/php-http-client": "~4.1",
+    "php": ">=7.2",
+    "sendgrid/php-http-client": "3.14.4",
     "starkbank/ecdsa": "0.*",
     "ext-curl": "*",
     "ext-json": "*",
